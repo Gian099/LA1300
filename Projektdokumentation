@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gian-Marco Mileti
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -17,11 +15,9 @@
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | Als ein Benutezr möchste ich eine Zahl raten können|
-| 1    |                 |      | Als benutzer möchte ich sehen wie viele versuche ich gebraucht habe. |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1 | Muss | Funktional| Als ein Benutzer möchste ich eine Zahl raten können|
+| 2   |    Muss             |  Qualität    | Als Benutzer möchte ich sehen wie viele Versuche ich gebraucht habe. |
+| 3  |                 |      |                                    |
 
 ### 1.3 Testfälle
 
@@ -33,9 +29,10 @@
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | 23.08.23 | Gian-Marco | Random Number Generator coden | 45min |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| ---- | ------------ | ------- | ----------------- |
+| 1 | 23.08.23 | Gian-Marco | Random Number Generator coden | 45min |
+| 2 |  30.08.23     |    Gian-Marco       |   Versuche anzeigen lassen           |               |
+| 3 |  30.08.23     |    Gian-Marco       |              |               |
 
 
 ## 3 Entscheiden
@@ -45,11 +42,10 @@
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ------------ | ------- | ----------------- |
 | ---- | 23.08.23 | Gian-Marco| | 45min |        45min         |
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -60,8 +56,4 @@
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
