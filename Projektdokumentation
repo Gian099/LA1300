@@ -4,7 +4,7 @@ Gian-Marco Mileti
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | |
+|       | 0.0.1   |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -12,12 +12,14 @@ Gian-Marco Mileti
 
 ### 1.1 Ihr Projekt
 
+Ich habe ein RandomNumberGenrator programmiert.
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | 1 | Muss | Funktional| Als ein Benutzer möchte ich eine Zahl raten können|
 | 2   |    Muss             |  Qualität    | Als Benutzer möchte ich sehen, wie viele Versuche ich gebraucht habe. |
-| 3  |                 |      |                                    |
+| 3  |      Muss           |  Funktional    |                                    |
 
 ### 1.3 Testfälle
 
@@ -31,21 +33,19 @@ Gian-Marco Mileti
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ------------ | ------- | ----------------- |
 | 1 | 23.08.23 | Gian-Marco | Random Number Generator coden | 45min |
-| 2 |  30.08.23     |    Gian-Marco       |   Versuche anzeigen lassen           |               |
+| 2 |  30.08.23     |    Gian-Marco       |   Versuche anzeigen lassen           |     30          |
 | 3 |  30.08.23     |    Gian-Marco       |              |               |
 
 
 ## 3 Entscheiden
 
-
-
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ------------ | ------- | ----------------- |
-| ---- | 23.08.23 | Gian-Marco| | 45min |        45min         |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A | 23.08.23 | Gian-Marco| | 45min |        45min         |
+| 2.A  |  23.08.23     |   Gian-Marco        |    30           |        30           |
+| 3.A  |       |           |               |                   |
 
 ## 5 Kontrollieren
 
